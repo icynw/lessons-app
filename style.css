@@ -1,0 +1,30 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+.my-icon{
+    position: absolute;
+    top: 216px;
+    right: 16px;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 8px;
+    background-color: rgb(78, 198, 144);
+    color: #fff;
+}
+
+.green {
+  color: #007bff
+}
